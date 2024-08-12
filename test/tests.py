@@ -1,5 +1,3 @@
-import sys
-sys.path.append('/Users/antonskvarskij/Collocations')
 import numpy as np
 from utility.bert_vectors import BERTVectorizer
 from utility.similarities import VectorSimilarities
